@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+code {
+  @apply bg-gray-100;
+  @apply rounded-md;
+  @apply p-2;
+}
+
+code::before,
+code::after {
+  content: none !important;
+}
+
+blockquote > p::before,
+blockquote > p::after {
+  content: none !important;
+}
+
+.tiptap {
+  @apply h-full;
+  @apply outline-none;
+}
