@@ -18,7 +18,7 @@
 2. 홈화면<br/>
 ![image](https://github.com/user-attachments/assets/b729faa7-c763-43fb-942e-7bad6ab739b7)
 <br/>
-홈 화면 도구
+홈 화면 도구<br/>
   1. 유저정보<br/>
   2. 노트<br/>
   3. 시간<br/>
@@ -29,4 +29,8 @@
 ![MDNote MozillaFirefox2024-11-2919-24-11-ezgif com-crop](https://github.com/user-attachments/assets/55a9f065-b63f-40ae-bdc8-40a08bd5f84c)
 
 
-3.노트화면
+3.노트화면<br/>
+![image](https://github.com/user-attachments/assets/95b607a5-9591-4e8a-8a0b-81e14b61c48f)<br />
+그림과 같이 처음에는 글씨크기 등등을 조절할 수 있게 나오고요 글을 드레그하면 글씨 굵기, 기울기 등등을 <br/>
+사용할 수 있습니다. 또한 Markdown도 지원하고 있어요
+
